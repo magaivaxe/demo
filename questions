@@ -1,0 +1,29 @@
+le code est un production et fonctionnele
+1 - Notre PO (une personne d'affaires) vient de te contacter pour un hot-fix à la veille de la fête nationale,
+c'est 16h et personne est là sauf toi.
+Il veux ajouter le prix "calin" pour la FETE_NATIONALE de quelle facon tu changerais le code?
+
+2 - Notre analyste a décider d'ajouter une autre journée férié, la fête du travail avec le prix "un mois de vacances payé".
+C'est un sprint normal. quels analyses et changement tu ferrais dans le code, par ou tu commences le changement?
+
+    a - le PO (une personne d'affaires) change d'idée au milieux du sprint et il décide que tu dois pousser ter changements
+     sans tests unitaires, sans tests QA et review de code. Il te dit qu'il te fait confiance et que tu est un bon dev.
+     Comment tu gère la situation ?
+
+3 - Tu fais tes commits et tu fais ta Pull request pour merger ton code:
+    a - un autre dev remarque que tu as fait 3 commits, mais pour le merger il faut qu'il soit dans un seule commit.
+    Comment tu vas fusionner tes 3 commits dans un seule ?
+    b - un autre devéloppeur remarque que tout ton coda n'a pas été codé de la bonne façon, la régle d'affaire n'est pas
+    respecté. C'est-à-dire que le sprint a été perdu pour toi.
+        b.1 - Il a raison. Comment tu gère la situation ?
+        b.2 - Comment éviter une cette situation.
+
+        c.1 - Dans le même cas maintenant toi, tu as raison, mais il insiste et il bloque ta pull request.
+        Comment tu gère la situation ?
+
+4 - Combien de temps tu attends pour demander de l'aide si tu es bloqué dans une tâche ?
+
+5 - Comment injecter les services ou componants sans utiliser @Autowired vu que desjardins nous interdit de le faire ?
+
+6 - Migration java 8 à java 15
+    a - quels analyses et changement tu ferais dans le code pour qu'il pass bien et propre à java 15
